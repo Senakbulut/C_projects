@@ -1,23 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Senakbulut 
-Senakbulut
-/
-for_loop_to_while_loop
-0
-00
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
-for_loop_to_while_loop/main.c
-@Senakbulut Senakbulut Add files via upload
-45e967d on 29 Apr 2019
-289 lines (283 sloc)  9.99 KB
-  
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -307,15 +287,4 @@ char aranan[]={'f','o','r'};
         }
    }
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
